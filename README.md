@@ -1,4 +1,4 @@
-# matchbox
+# Matchbox
 Scan your environment for people with the same interests
 
 ## Description
